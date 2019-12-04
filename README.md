@@ -1,4 +1,4 @@
-# Qiskit Camp Asia 2019
+# Qiskit Camp Africa 2019
 
 ## Things to do before the hackathon
 
@@ -29,36 +29,5 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 ## Hackathon Schedule
 
-| Monday (Nov 18) |  |
-|:--------------:|:---------------------------------:|
-| 10:00  | Registration Opens at IBM Japan|
-| 12:30  | Shuttle Busses Depart|
-| 15:00 - 16:00 | Check into Hackathon Venue|
-| 16:00 - 18:00 | Team Building Session|
-| 19:30 - 21:00 | Welcome to Qiskit Camp! Presentation & Dinner|
-|  |  |
-| Tuesday (Nov 19)|  |
-| 08:00 - 09:00 | Breakfast |
-| 09:00 - 10:00 | Team Formation Begins  |
-| 10:00 - 12:00 | Team Formation Ends & Hackathon Begins|
-| 12:00 - 13:00 | Lunch |
-| 18:30 - 19:30 | Dinner |
-| 19:30 - 20:30 | Hacking Session Ends |
-| 22:00 | Venue Closes |
-|  |  |
-| Wednesday (Nov 20) |  |
-| 08:00 - 09:00 | Breakfast |
-| 09:00 - 14:00 | Hacking Session  |
-| 14:00 - 14:45 | Hackathon Ends & Presentations Get Finalized |
-| 15:00 - 17:00 | Team Presentations |
-| 17:00 - 18:00 | Judging/Awards |
-| 18:00 - 18:30 | Closing ceremony |
-| 19:30   | Dinner & Celebration |
-|  |  |
-| Thursday (Nov 21) |  |
-| 08:00 - 09:00 | Breakfast |
-| 09:00 - 12:00 | Group Checkout |
-| 10:00  | First Shuttles Depart for Tokyo Station |
-| 15:00  | Last Shuttles Depart for Tokyo Station |
 
 
