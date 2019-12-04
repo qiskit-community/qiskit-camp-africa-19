@@ -6,7 +6,7 @@ Each hackathon participant must bring a laptop with the following installed:
 
 ### Required
 You need to install the following software packages for the hackathon:
-- Python 3.5 or later
+- Python 3.6 or later
 - Jupyter notebook
 - Qiskit
 
