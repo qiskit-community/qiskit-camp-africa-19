@@ -1,4 +1,4 @@
-# Preparation for Qiskit Camp Asia 2019
+# Preparation for Qiskit Camp!
 
 ## Things to install
 
