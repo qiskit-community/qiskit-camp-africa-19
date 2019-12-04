@@ -32,13 +32,13 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 
 | Thursday (Dec 12) |  |
 |:--------------:|:---------------------------------:|
-| 9:00  | Team Formation |
-| 10:00 | Hackathon starts  |
-|  ...  | Hackathon! |
+| 9:00 - 10:00 | Team Formation |
+| 10:00 - ... | Hackathon!  |
 
 | Friday (Dec 13)|  |
 |:--------------:|:---------------------------------:|
-| ... | Hackathon! |
+| ... - 14:00 | Hackathon! |
+| 14:00 - 14:45 | Presentation preparation |
 | 15:00 | Project Presentations |
 
 
