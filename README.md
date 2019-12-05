@@ -47,10 +47,17 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 
 <dl>
     <dt name="things-to-do-before-the-hackathon">Things to do before the hackathon</dt>
-    <dd>Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.</dd>
+    <dd>
+      
+Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
+
+</dd>
     <dt name="collect">I have an idea for the hackathon</dt>
-    <dd>Open an issue in this repo (using the [`new project`](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template) and explain your idea in some paragraphs.
+    <dd>
+        
+Open an issue in this repo (using the [`new project`](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template) and explain your idea in some paragraphs.
 All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
+
 </dd>
 
 # Time for pitching the idea
