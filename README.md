@@ -2,15 +2,17 @@
 
 ## Things to do before the hackathon
 
-Check the [Preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
+Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
 
 ## I have an idea for the hackathon
 
 Open an issue in this repo (using the [`new project`](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template) and explain your idea in some paragraphs.
 
+All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
+
 ## Time for pitching the idea
 
-Before the hackathon starts, all the ideas that are register in this repo will be very shortly explained by the original submitter in a short pitch format. You have 3 minutes for this pitch. Make sure that you mention, at least, these three elements: team number, the problem to solve, the kind of people you need in your team.
+Before the hackathon starts, the first thing to be done on the first day is to pitch all the ideas registered [here](https://github.com/qiskit-community/qiskit-camp-africa-19/issues). The pitch is a 60-second-long exposition  by the original submitter of the idea. Make sure that you mention, at least, these three elements: team number, the problem to solve, the kind of people you need in your team. The goal is to recruit participant behind your idea. If your idea does not get critical mass, it will be discarded for this hackathon. 
 
 ## I would like to participate in an existing idea
 
@@ -22,7 +24,7 @@ If a participant that was assigned to team changes their mind it can be reassign
 
 ## None of the existing ideas is suitable for me :(
 
-If any idea is suitable for you, considering submitting your own idea. Maybe, you feel that the full thing is over your head, considering joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1). You want be participating of the competition, but you will contribute and learn a lot!
+If any of the proposed ideas is suitable for you, considering submitting your own idea. Maybe, you feel that the full thing is over your head, considering joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1). You want be participating of the competition, but you will contribute and learn a lot!
 
 ## My team is not reaching the minimum amount of members
 
@@ -39,10 +41,21 @@ After the project is defined and the team is complete, you can ask an IBMer in t
 ## The team needs a coach
 
 A Qiskit coach guides and advices the team in its project.
-Also will be your contact point after the hackathon, in case that the project have a continuation.
-The team needs a coach before the final submission at the end of the hackathon.
+Also will be your contact point after the hackathon, in case that the project have a continuation. Your team will get a coach assigned during the first hours of the hackathon, the first day. A team might have more than one coach, but at least one coach.
 
 ## It's presentation time!
+
+After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. This article has good advices that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
+
+## It's awards time!
+
+After the presentations, the 3 judges will have an hour for deliberating the hackathon winners. There is a 1st and a 2nd prize winners, which will be evaluated on 1) Originality and Uniqueness; 2) Live Pitch Presentation; 3) Usefulness; and 4) Technical complexity.
+
+
+1st place winners will receive a paid trip to the annual flagship Qiskit Camp event near Yorktown Heights, NY.
+
+Also during this time all the participant will vote for the community choice award. Instructions on how to vote will be provided after the presentations.
+ 
 
 ## Hackathon Schedule
 
@@ -51,15 +64,15 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 | Thursday (Dec 12) |  |
 |:--------------:|:---------------------------------:|
 | 9:00 - 10:00 | Team Formation |
-| 10:00 - ... | Hackathon!  |
+| 10:00 - 23:30 | Hackathon! (day 1)  |
 
 | Friday (Dec 13)|  |
 |:--------------:|:---------------------------------:|
-| ... - 14:00 | Hackathon! |
-| 14:00 - 14:45 | Presentation preparation |
-| 15:00 | Project Presentations |
-
-
-
+| 9:00 - 13:30 | Hackathon! (day 2) |
+| 13:30 - 14:30 | Presentation preparation |
+| 15:00 - 17:00 | Presentations! |
+| 17:00 - 18:00 | Judges discuss in private |
+| 17:00 - 18:00 | Participant vote their favorite project |
+| 18:00         | Awards!
 
 
