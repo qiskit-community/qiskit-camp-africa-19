@@ -9,9 +9,9 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 | **Before Dec 12** |  | | **Friday (Dec 13)** | |
 | | [Get ready!](##things-to-do-before-the-hackathon) | | 9:00 - 13:30 | Hackathon! (day 2) |
 | | [Collect ideas](#time-for-pitching-the-idea) | | 13:30 - 14:30 | Prepares presentation |  
-| **Thursday (Dec 12)** | | 15:00 - 17:00 | Presentations! |
+| **Thursday (Dec 12)** | | | 15:00 - 17:00 | Presentations! |
 | 9:00 - 9:30 | [Pitching ideas](#time-for-pitching-the-idea) | | 17:00 - 18:00 | Judges discuss in private |
-| 9:30 - 10:00 | Team Formation | | 17:00 - 18:00 | Participant vote their favorite project |
+| 9:30 - 10:00 | [Team Formation](#team-formation) | | 17:00 - 18:00 | Participant vote their favorite project |
 | 10:00 - 23:30 | Hackathon! (day 1) | | 18:00         | Awards! |
 
 
@@ -33,25 +33,23 @@ Before the hackathon starts, the first thing to be done on the first day is to p
 
 # Team formation
 
-## I would like to participate in an existing idea
-
-Participants and coaches can comment and add information as comments in the ideas (as issue comments). [After the pitches](#time-for-pitching-the-idea), there is time for team formation. Find the person behind the idea (feel free to slack them) and ask for more. Once you are convinced, add a comment in the issue mentioning `@qcamp` (our [helpful bot](https://github.com/qcamp)). After some seconds, you will be assigned to the issue. Being assigned to the issue means being part of the team.
-
-## I am already in a team, but I want to change
-
-If a participant is assigned to team and she changes her mind, she has to unassigned herself from the current team and post a comment mentioning `@qcamp` in the new team. A participant cannot be assigned to more than one open team at any time.
-
-## None of the existing ideas is suitable for me :(
-
-If any of the proposed ideas is suitable for you, considering submitting your own idea. Maybe, you feel that the full thing is over your head, considering joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1). You want be participating of the competition, but you will contribute and learn a lot!
-
-## My team is not reaching the minimum amount of members
-
-If during the team formation stage your team is not gaining traction (has two or less members) it will be considerate as a candidate to be closed. It will be [labeled as such](https://github.com/qiskit-community/qiskit-camp-africa-19/labels/candidate%20to%20be%20closed) and that will serve as some sort of "last call" to encourage its members to find more participants interested in the idea. After some undefined amount of time, it will be closed and its members are free to find new teams. 
-
-## My team is complete
-
-Once a team reaches 5 members, the issue is labeled as `group is full`. Since 5 is a hard limit, the team cannot have more members. If you see that there is more people interested, consider opening a new team as a spin off and forward the participants to this new issue.
+<dl>
+    <dt name="participate">I would like to participate in an existing idea</dt>
+    <dd>Participants and coaches can comment and add information as comments in the ideas (as issue comments). [After the pitches](#time-for-pitching-the-idea), there is time for team formation. Find the person behind the idea (feel free to slack them) and ask for more. Once you are convinced, add a comment in the issue mentioning `@qcamp` (our [helpful bot](https://github.com/qcamp)). After some seconds, you will be assigned to the issue. Being assigned to the issue means being part of the team.</dd>
+    <dt name="reassign">I am already in a team, but I want to change</dt>
+    <dd>If a participant is assigned to team and she changes her mind, she has to unassigned herself from the current team and post a comment mentioning `@qcamp` in the new team. A participant cannot be assigned to more than one open team at any time.</dd>
+   <dt name="none">None of the existing ideas is suitable for me :(</dt>
+<dd>
+  If any of the proposed ideas is suitable for you, considering submitting your own idea. Maybe, you feel that the full thing is over your head, considering joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1). You want be participating of the competition, but you will contribute and learn a lot!
+</dd>
+  <dt name="tokill">My team is not reaching the minimum amount of members</dt>
+  <dd>
+    If during the team formation stage your team is not gaining traction (has two or less members) it will be considerate as a candidate to be closed. It will be [labeled as such](https://github.com/qiskit-community/qiskit-camp-africa-19/labels/candidate%20to%20be%20closed) and that will serve as some sort of "last call" to encourage its members to find more participants interested in the idea. After some undefined amount of time, it will be closed and its members are free to find new teams. 
+  </dd>
+  <dt name="full">My team is complete</dt>  
+  <dd>Once a team reaches 5 members, the issue is labeled as `group is full`. Since 5 is a hard limit, the team cannot have more members. If you see that there is more people interested, consider opening a new team as a spin off and forward the participants to this new issue.
+</dd>
+</dl>
 
 # The hacking part of the hackathon
 
