@@ -4,15 +4,57 @@
 
 The full schedule is available [here](https://community.qiskit.org/events/africa/). 
 
-| When | What | | When | What |
-| -----|------|-|------|------| 
-| **Before Dec 12** |  | | **Friday (Dec 13)** | |
-| | [Get ready!](##things-to-do-before-the-hackathon) | | 9:00 - 13:30 | Hackathon! (day 2) |
-| | [Collect ideas](#time-for-pitching-the-idea) | | 13:30 - 14:30 | Prepares presentation |  
-| **Thursday (Dec 12)** | | | 15:00 - 17:00 | Presentations! |
-| 9:00 - 9:30 | [Pitching ideas](#time-for-pitching-the-idea) | | 17:00 - 18:00 | Judges discuss in private |
-| 9:30 - 10:00 | [Team Formation](#team-formation) | | 17:00 - 18:00 | Participant vote their favorite project |
-| 10:00 - 23:30 | Hackathon! (day 1) | | 18:00         | Awards! |
+<table style="float: left">
+<thead>
+<tr>
+<th colspan="2">Before Dec 12</th>
+</tr>
+</thead>
+<tbody>
+    <tr><td colspan="2"><a href="#things-to-do-before-the-hackathon">Get ready!</a></td></tr>
+    <tr><td colspan="2"><a href="#time-for-pitching-the-idea">Collect ideas</a></td></tr>
+</tbody>
+</table>
+<table style="float: left">
+<thead>
+<tr>
+<th colspan="2">Before Dec 12</th>
+</tr>
+</thead>
+<tbody>
+    <tr><td colspan="2"><a href="#things-to-do-before-the-hackathon">Get ready!</a></td></tr>
+    <tr><td colspan="2"><a href="#time-for-pitching-the-idea">Collect ideas</a></td></tr>
+</tbody>
+</table>
+
+<table style="float: left">
+<thead>
+<tr>
+<th colspan="2">Thursday (Dec 12)</th>
+</tr>
+</thead>
+<tbody>
+    <tr><td>9:00 - 9:30</td> <td><a href="#time-for-pitching-the-idea">Pitching ideas</a></td></tr>
+    <tr><td>9:30 - 10:00</td><td><a href="#team-formation">Team Formation</a></td></tr>
+    <tr><td>10:00 - 23:30</td><td>Hackathon! (day 1)</td></tr>
+</tbody>
+</table>
+
+<table style="float: left">
+<thead>
+<tr>
+<th colspan="2">Friday (Dec 13)</th>
+</tr>
+</thead>
+<tbody>
+    <tr><td>9:00 - 13:30</td><td>Hackathon! (day 2)</td></tr>
+    <tr><td>13:30 - 14:30</td><td>Prepares presentation</td></tr>
+    <tr><td>15:00 - 17:00</td><td>Presentations!</td></tr>
+    <tr><td>17:00 - 18:00</td><td>Judges discuss in private</td></tr>
+    <tr><td>17:00 - 18:00</td><td>Participant vote their favorite project</td></tr>
+    <tr><td>18:00</td><td> Awards!</td></tr>
+</tbody>
+</table>
 
 
 # Collecting hackathon ideas
