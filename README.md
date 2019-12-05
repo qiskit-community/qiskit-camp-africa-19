@@ -2,8 +2,8 @@
 
 The full schedule is available [here](https://community.qiskit.org/events/africa/). 
 
-<table border="none" border-collapse="collapse" >
-    <tr><td>
+<table border="none"  >
+<tr border="0"><td border="0">
 <table>
 <thead>
 <tr>
@@ -27,7 +27,7 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
     <tr><td>10:00 - 23:30</td><td><a href="#the-hacking-part-of-the-hackathon">Hackathon!</a> (day 1)</td></tr>
 </tbody>
 </table>
-</td><td>
+</td><td border="0">
 <table style="float: left">
 <thead>
 <tr>
@@ -43,7 +43,7 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
     <tr><td>18:00</td><td><a href="#its-awards-time">Awards!</a></td></tr>
 </tbody>
 </table>
-</td></table>
+</td></tr></table>
 
 ------
 
@@ -84,7 +84,7 @@ Participants and coaches can comment and add information as comments in the idea
 If a participant is assigned to team and she changes her mind, she has to unassigned herself from the current team and post a comment mentioning `@qcamp` in the new team. A participant cannot be assigned to more than one open team at any time.
 
 </dd>
-   <dt name="none">None of the existing ideas is suitable for me :(</dt>
+   <dt name="nothing">None of the existing ideas is suitable for me :(</dt>
 <dd>
 
 If any of the proposed ideas is suitable for you, considering submitting your own idea. Maybe, you feel that the full thing is over your head, considering joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1). You want be participating of the competition, but you will contribute and learn a lot!
