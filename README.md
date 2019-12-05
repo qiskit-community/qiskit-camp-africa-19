@@ -4,7 +4,6 @@
 
 The full schedule is available [here](https://community.qiskit.org/events/africa/). 
 
-<div>
 <table style="float: left">
 <thead>
 <tr>
@@ -13,7 +12,7 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 </thead>
 <tbody>
     <tr><td colspan="2"><a href="#things-to-do-before-the-hackathon">Get ready!</a></td></tr>
-    <tr><td colspan="2"><a href="#time-for-pitching-the-idea">Collect ideas</a></td></tr>
+    <tr><td colspan="2"><a href="#collect">Collect ideas</a></td></tr>
 </tbody>
 </table>
 <table style="float: left">
@@ -43,19 +42,16 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
     <tr><td>18:00</td><td> Awards!</td></tr>
 </tbody>
 </table>
-</div>
 
-# Collecting hackathon ideas
+# Before starting
 
-## Things to do before the hackathon
-
-Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
-
-## I have an idea for the hackathon
-
-Open an issue in this repo (using the [`new project`](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template) and explain your idea in some paragraphs.
-
+<dl>
+    <dt name="things-to-do-before-the-hackathon">Things to do before the hackathon</dt>
+    <dd>Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.</dd>
+    <dt name="collect">I have an idea for the hackathon</dt>
+    <dd>Open an issue in this repo (using the [`new project`](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template) and explain your idea in some paragraphs.
 All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
+</dd>
 
 # Time for pitching the idea
 
