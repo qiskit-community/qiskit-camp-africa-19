@@ -2,7 +2,7 @@
 
 The full schedule is available [here](https://community.qiskit.org/events/africa/). 
 
-<table style="border: 0px solid red">
+<table style="border-collapse: separate">
     <tr><td>
 <table>
 <thead>
