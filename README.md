@@ -2,8 +2,8 @@
 
 The full schedule is available [here](https://community.qiskit.org/events/africa/). 
 
-<table border="none"  >
-<tr border="0"><td border="0">
+<table>
+<tr><td>
 <table>
 <thead>
 <tr>
@@ -15,7 +15,7 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
     <tr><td colspan="2"><a href="#collect">Collect ideas</a></td></tr>
 </tbody>
 </table>
-<table style="float: left">
+<table>
 <thead>
 <tr>
 <th colspan="2">Thursday (Dec 12)</th>
@@ -27,8 +27,8 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
     <tr><td>10:00 - 23:30</td><td><a href="#the-hacking-part-of-the-hackathon">Hackathon!</a> (day 1)</td></tr>
 </tbody>
 </table>
-</td><td border="0">
-<table style="float: left">
+</td><td>
+<table>
 <thead>
 <tr>
 <th colspan="2">Friday (Dec 13)</th>
