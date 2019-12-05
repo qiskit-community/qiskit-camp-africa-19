@@ -4,6 +4,7 @@
 
 The full schedule is available [here](https://community.qiskit.org/events/africa/). 
 
+<div>
 <table style="float: left">
 <thead>
 <tr>
@@ -15,18 +16,6 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
     <tr><td colspan="2"><a href="#time-for-pitching-the-idea">Collect ideas</a></td></tr>
 </tbody>
 </table>
-<table style="float: left">
-<thead>
-<tr>
-<th colspan="2">Before Dec 12</th>
-</tr>
-</thead>
-<tbody>
-    <tr><td colspan="2"><a href="#things-to-do-before-the-hackathon">Get ready!</a></td></tr>
-    <tr><td colspan="2"><a href="#time-for-pitching-the-idea">Collect ideas</a></td></tr>
-</tbody>
-</table>
-
 <table style="float: left">
 <thead>
 <tr>
@@ -39,7 +28,6 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
     <tr><td>10:00 - 23:30</td><td>Hackathon! (day 1)</td></tr>
 </tbody>
 </table>
-
 <table style="float: left">
 <thead>
 <tr>
@@ -55,7 +43,7 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
     <tr><td>18:00</td><td> Awards!</td></tr>
 </tbody>
 </table>
-
+</div>
 
 # Collecting hackathon ideas
 
