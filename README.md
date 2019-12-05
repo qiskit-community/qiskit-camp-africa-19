@@ -45,6 +45,8 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 </table>
 </td></table>
 
+------
+
 ## Before starting
 
 <dl>
