@@ -20,7 +20,7 @@ Participants and coaches can comment and add information as comments in the idea
 
 ## I am already in a team, but I want to change
 
-If a participant that was assigned to team changes their mind it can be reassigned to a different team. For that the participant has to unassigned theirselves from the current team and post a comment mentioning `@qcamp` in the new team. A participant cannot be assigned to more than one open team at any time.
+If a participant is assigned to team and she changes her mind, she has to unassigned herself from the current team and post a comment mentioning `@qcamp` in the new team. A participant cannot be assigned to more than one open team at any time.
 
 ## None of the existing ideas is suitable for me :(
 
@@ -28,7 +28,7 @@ If any of the proposed ideas is suitable for you, considering submitting your ow
 
 ## My team is not reaching the minimum amount of members
 
-If during the team formation stage your team is not gaining tractionTeams with two or less members are candidates to be closed. It will be [labeled as such](https://github.com/qiskit-community/qiskit-camp-africa-19/labels/candidate%20to%20be%20closed) and it some sort of last call to encourage its members to find more participants interested in the idea. After some undefined amount of time, it will be closed and its members are free to find new teams. 
+If during the team formation stage your team is not gaining traction (has two or less members) it will be considerate as a candidate to be closed. It will be [labeled as such](https://github.com/qiskit-community/qiskit-camp-africa-19/labels/candidate%20to%20be%20closed) and that will serve as some sort of "last call" to encourage its members to find more participants interested in the idea. After some undefined amount of time, it will be closed and its members are free to find new teams. 
 
 ## My team is complete
 
