@@ -2,7 +2,7 @@
 
 The full schedule is available [here](https://community.qiskit.org/events/africa/). 
 
-<table style="border-collapse: separate">
+<table style="rules:none ! important;">
     <tr><td>
 <table>
 <thead>
@@ -24,7 +24,7 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 <tbody>
     <tr><td>9:00 - 9:30</td> <td><a href="#time-for-pitching-the-idea">Pitching ideas</a></td></tr>
     <tr><td>9:30 - 10:00</td><td><a href="#team-formation">Team Formation</a></td></tr>
-    <tr><td>10:00 - 23:30</td><td>Hackathon! (day 1)</td></tr>
+    <tr><td>10:00 - 23:30</td><td><a href="#the-hacking-part-of-the-hackathon">Hackathon!</a> (day 1)</td></tr>
 </tbody>
 </table>
 </td><td>
@@ -35,12 +35,12 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 </tr>
 </thead>
 <tbody>
-    <tr><td>9:00 - 13:30</td><td>Hackathon! (day 2)</td></tr>
-    <tr><td>13:30 - 14:30</td><td>Prepares presentation</td></tr>
+    <tr><td>9:00 - 13:30</td><td><a href="#the-hacking-part-of-the-hackathon">Hackathon!</a> (day 2)</td></tr>
+    <tr><td>13:30 - 14:30</td><td><a href="#its-presentation-time"> Prepares presentation</a></td></tr>
     <tr><td>15:00 - 17:00</td><td>Presentations!</td></tr>
-    <tr><td>17:00 - 18:00</td><td>Judges discuss in private</td></tr>
-    <tr><td>17:00 - 18:00</td><td>Participant vote their favorite project</td></tr>
-    <tr><td>18:00</td><td> Awards!</td></tr>
+    <tr><td>17:00 - 18:00</td><td><a href="#its-awards-time">Judges discuss in private</a></td></tr>
+    <tr><td>17:00 - 18:00</td><td>Participants vote their favorite project</td></tr>
+    <tr><td>18:00</td><td><a href="#its-awards-time">Awards!</a></td></tr>
 </tbody>
 </table>
 </td></table>
@@ -126,10 +126,14 @@ After the hackathon finishes, the team will have extra time (around 1 hour) to p
 
 ## It's awards time!
 
-After the presentations, the 3 judges will have an hour for deliberating the hackathon winners. There is a 1st and a 2nd prize winners, which will be evaluated on 1) Originality and Uniqueness; 2) Live Pitch Presentation; 3) Usefulness; and 4) Technical complexity.
+After the presentations, the 3 judges will have an hour for deliberating the hackathon winners. There is a 1st and a 2nd prize winners, which will be evaluated on:
+ 1. Originality and Uniqueness
+ 2. Live Pitch Presentation
+ 3. Usefulness
+ 4. Technical complexity.
 
 
-1st place winners will receive a paid trip to the annual flagship Qiskit Camp event near Yorktown Heights, NY.
+The 1st place winners will receive a paid trip to the annual flagship Qiskit Camp event near Yorktown Heights, NY.
 
 Also during this time all the participant will vote for the community choice award. Instructions on how to vote will be provided after the presentations.
 
