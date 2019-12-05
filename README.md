@@ -58,6 +58,7 @@ Check the [preparation & installation document](preparation%26installation.md) n
     <dd>
         
 Open an issue in this repo (using the [`new project`](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template) and explain your idea in some paragraphs.
+
 All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
 
 </dd>
