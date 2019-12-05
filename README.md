@@ -2,7 +2,7 @@
 
 The full schedule is available [here](https://community.qiskit.org/events/africa/). 
 
-<table style='border: none'>
+<table style="border: 0px solid red">
     <tr><td>
 <table>
 <thead>
@@ -45,7 +45,7 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 </table>
 </td></table>
 
-# Before starting
+## Before starting
 
 <dl>
     <dt name="things-to-do-before-the-hackathon">Things to do before the hackathon</dt>
@@ -63,11 +63,11 @@ All the proposed projects should make use of some part of Qiskit (including the 
 
 </dd>
 
-# Time for pitching the idea
+## Time for pitching the idea
 
 Before the hackathon starts, the first thing to be done on the first day is to pitch all the ideas registered [here](https://github.com/qiskit-community/qiskit-camp-africa-19/issues). The pitch is a 60-second-long exposition  by the original submitter of the idea. Make sure that you mention, at least, these three elements: team number, the problem to solve, the kind of people you need in your team. The goal is to recruit participant behind your idea. If your idea does not get critical mass, it will be discarded for this hackathon. 
 
-# Team formation
+## Team formation
 
 <dl>
     <dt name="participate">I would like to participate in an existing idea</dt>
@@ -102,22 +102,29 @@ Once a team reaches 5 members, the issue is labeled as `group is full`. Since 5 
 </dd>
 </dl>
 
-# The hacking part of the hackathon
+## The hacking part of the hackathon
 
-## My team is ready. Let's hack!
+<dl>
+  <dt name="ready">My team is ready. Let's hack!</dt>  
+  <dd>
 
 After the project is defined and the team is complete, you can ask an IBMer in the channel `#qiskit-camp-africa` (qiskit.slack.com) to add the label `group ready`. This should happen before the group formation stage is finished. From this point on, you can use the issue to communicate progress as additional comments.
 
-## The team needs a coach
+</dd>
 
+<dt name="coach">The team needs a coach</dt>
+<dd>
+    
 A Qiskit coach guides and advices the team in its project.
 Also will be your contact point after the hackathon, in case that the project have a continuation. Your team will get a coach assigned during the first hours of the hackathon, the first day. A team might have more than one coach, but at least one coach.
 
-# It's presentation time!
+</dd></dl>
+
+## It's presentation time!
 
 After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. This article has good advices that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
 
-# It's awards time!
+## It's awards time!
 
 After the presentations, the 3 judges will have an hour for deliberating the hackathon winners. There is a 1st and a 2nd prize winners, which will be evaluated on 1) Originality and Uniqueness; 2) Live Pitch Presentation; 3) Usefulness; and 4) Technical complexity.
 
