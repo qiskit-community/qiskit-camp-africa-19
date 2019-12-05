@@ -1,5 +1,22 @@
 # Qiskit Camp Africa 2019
 
+## Hackathon timetable
+
+The full schedule is available [here](https://community.qiskit.org/events/africa/). 
+
+| When | What | | When | What |
+| -----|------|-|------|------| 
+| **Before Dec 12** | [Collect ideas](#time-for-pitching-the-idea) | | **Friday (Dec 13)** | |
+| **Thursday (Dec 12)** | | | 9:00 - 13:30 | Hackathon! (day 2) |
+| 9:00 - 9:30 | [Pitching ideas](#time-for-pitching-the-idea) || 13:30 - 14:30 | Presentation preparation |
+| 9:30 - 10:00 | Team Formation | | 15:00 - 17:00 | Presentations! |
+| 10:00 - 23:30 | Hackathon! (day 1)  | | 17:00 - 18:00 | Judges discuss in private |
+| | | | 17:00 - 18:00 | Participant vote their favorite project |
+| | | | 18:00         | Awards! |
+
+
+# Collecting hackathon ideas
+
 ## Things to do before the hackathon
 
 Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
@@ -10,9 +27,11 @@ Open an issue in this repo (using the [`new project`](https://github.com/qiskit-
 
 All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
 
-## Time for pitching the idea
+# Time for pitching the idea
 
 Before the hackathon starts, the first thing to be done on the first day is to pitch all the ideas registered [here](https://github.com/qiskit-community/qiskit-camp-africa-19/issues). The pitch is a 60-second-long exposition  by the original submitter of the idea. Make sure that you mention, at least, these three elements: team number, the problem to solve, the kind of people you need in your team. The goal is to recruit participant behind your idea. If your idea does not get critical mass, it will be discarded for this hackathon. 
+
+# Team formation
 
 ## I would like to participate in an existing idea
 
@@ -34,6 +53,8 @@ If during the team formation stage your team is not gaining traction (has two or
 
 Once a team reaches 5 members, the issue is labeled as `group is full`. Since 5 is a hard limit, the team cannot have more members. If you see that there is more people interested, consider opening a new team as a spin off and forward the participants to this new issue.
 
+# The hacking part of the hackathon
+
 ## My team is ready. Let's hack!
 
 After the project is defined and the team is complete, you can ask an IBMer in the channel `#qiskit-camp-africa` (qiskit.slack.com) to add the label `group ready`. This should happen before the group formation stage is finished. From this point on, you can use the issue to communicate progress as additional comments.
@@ -43,11 +64,11 @@ After the project is defined and the team is complete, you can ask an IBMer in t
 A Qiskit coach guides and advices the team in its project.
 Also will be your contact point after the hackathon, in case that the project have a continuation. Your team will get a coach assigned during the first hours of the hackathon, the first day. A team might have more than one coach, but at least one coach.
 
-## It's presentation time!
+# It's presentation time!
 
 After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. This article has good advices that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
 
-## It's awards time!
+# It's awards time!
 
 After the presentations, the 3 judges will have an hour for deliberating the hackathon winners. There is a 1st and a 2nd prize winners, which will be evaluated on 1) Originality and Uniqueness; 2) Live Pitch Presentation; 3) Usefulness; and 4) Technical complexity.
 
@@ -55,24 +76,5 @@ After the presentations, the 3 judges will have an hour for deliberating the hac
 1st place winners will receive a paid trip to the annual flagship Qiskit Camp event near Yorktown Heights, NY.
 
 Also during this time all the participant will vote for the community choice award. Instructions on how to vote will be provided after the presentations.
- 
-
-## Hackathon Schedule
-
-The full schedule is available [here](https://community.qiskit.org/events/africa/). 
-
-| Thursday (Dec 12) |  |
-|:--------------:|:---------------------------------:|
-| 9:00 - 10:00 | Team Formation |
-| 10:00 - 23:30 | Hackathon! (day 1)  |
-
-| Friday (Dec 13)|  |
-|:--------------:|:---------------------------------:|
-| 9:00 - 13:30 | Hackathon! (day 2) |
-| 13:30 - 14:30 | Presentation preparation |
-| 15:00 - 17:00 | Presentations! |
-| 17:00 - 18:00 | Judges discuss in private |
-| 17:00 - 18:00 | Participant vote their favorite project |
-| 18:00         | Awards!
 
 
