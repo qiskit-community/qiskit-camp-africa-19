@@ -6,12 +6,12 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 
 | When | What | | When | What |
 | -----|------|-|------|------| 
-| **Before Dec 12** | [Collect ideas](#time-for-pitching-the-idea) | | **Friday (Dec 13)** | |
-| **Thursday (Dec 12)** | | | 9:00 - 13:30 | Hackathon! (day 2) |
-| 9:00 - 9:30 | [Pitching ideas](#time-for-pitching-the-idea) || 13:30 - 14:30 | Presentation preparation |
-| 9:30 - 10:00 | Team Formation | | 15:00 - 17:00 | Presentations! |
-| 10:00 - 23:30 | Hackathon! (day 1)  | | 17:00 - 18:00 | Judges discuss in private |
-| | | | 17:00 - 18:00 | Participant vote their favorite project |
+| **Before Dec 12** | [Get ready!](##things-to-do-before-the-hackathon) | | **Friday (Dec 13)** | |
+| **Before Dec 12** | [Collect ideas](#time-for-pitching-the-idea) | | 9:00 - 13:30 | Hackathon! (day 2) |
+| **Thursday (Dec 12)** | | | 13:30 - 14:30 | Prepares presentation |
+| 9:00 - 9:30 | [Pitching ideas](#time-for-pitching-the-idea) | | 15:00 - 17:00 | Presentations! |
+| 9:30 - 10:00 | Team Formation | | 17:00 - 18:00 | Judges discuss in private |
+| 10:00 - 23:30 | Hackathon! (day 1)  | | 17:00 - 18:00 | Participant vote their favorite project |
 | | | | 18:00         | Awards! |
 
 
