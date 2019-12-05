@@ -1,5 +1,3 @@
-# Qiskit Camp Africa 2019
-
 ## Hackathon timetable
 
 The full schedule is available [here](https://community.qiskit.org/events/africa/). 
