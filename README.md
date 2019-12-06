@@ -93,7 +93,7 @@ If any of the proposed ideas is suitable for you, considering submitting your ow
   <dt name="tokill">My team is not reaching the minimum amount of members</dt>
   <dd>
 
-If during the team formation stage your team is not gaining traction (has two or less members) it will be considerate as a candidate to be closed. It will be [labeled as such](https://github.com/qiskit-community/qiskit-camp-africa-19/labels/candidate%20to%20be%20closed) and that will serve as some sort of "last call" to encourage its members to find more participants interested in the idea. After some undefined amount of time, it will be closed and its members are free to find new teams. 
+If during the team formation stage your team is not gaining traction (has two or less members) it will be considered a candidate to be closed. It will be [labeled as such](https://github.com/qiskit-community/qiskit-camp-africa-19/labels/candidate%20to%20be%20closed) and that will serve as some sort of "last call" to encourage its members to find more participants interested in the idea. After some undefined amount of time, it will be closed and its members are free to find new teams. 
 
 </dd>
   <dt name="full">My team is complete</dt>  
@@ -117,14 +117,14 @@ After the project is defined and the team is complete, you can ask an IBMer in t
 <dt name="coach">The team needs a coach</dt>
 <dd>
     
-A Qiskit coach guides and advices the team in its project.
-Also will be your contact point after the hackathon, in case that the project have a continuation. Your team will get a coach assigned during the first hours of the hackathon, the first day. A team might have more than one coach, but at least one coach.
+A Qiskit coach guides and advises the team in its project.
+A Qiskit coach will also be your contact point after the hackathon, in case the project continues. Your team will get a coach assigned during the first hours of the hackathon on the first day. A team might have more than one coach, but at least one coach.
 
 </dd></dl>
 
 ## It's presentation time!
 
-After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. This article has good advices that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
+After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. This article has good advice that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
 
 ## It's awards time!
 
