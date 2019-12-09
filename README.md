@@ -7,12 +7,13 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
 <table>
 <thead>
 <tr>
-<th colspan="2">Before Dec 12</th>
+<th>Before Dec 12</th>
 </tr>
 </thead>
 <tbody>
-    <tr><td colspan="2"><a href="#things-to-do-before-the-hackathon">Get ready!</a></td></tr>
-    <tr><td colspan="2"><a href="#collect">Collect ideas</a></td></tr>
+    <tr><td><a href="#things-to-do-before-the-hackathon">Get ready!</a></td></tr>
+    <tr><td><a href="#signups">Get your accesses</a></td></tr>
+    <tr><td><a href="#collect">Collect ideas</a></td></tr>
 </tbody>
 </table>
 <table>
@@ -54,6 +55,17 @@ The full schedule is available [here](https://community.qiskit.org/events/africa
     <dd>
       
 Check the [preparation & installation document](preparation%26installation.md) note for things to do before the hackathon.
+
+   <dt name="signups">Sign up on related services</dt>
+   <dd>
+      
+Qiskit hackathons make heavy use of two external services, and it's expected you have a user available in both of them:
+
+ - [Qiskit Slack](https://qiskit.slack.com): Our main way of communication is on Slack. You can join the workspace
+[by clicking here](https://join.slack.com/t/qiskit/shared_invite/enQtNjQ5OTc5ODM1ODYyLTc2YWJhOWViZDA2OWI5N2EyMjIxN2YwODM5MWQyN2Q3MjczOGRlMDU4MzMxMWE5MzZjMzEzYzM3MmJiMzU5MzU). After that, join the `#qiskit-camp-africa` channel where you will find all your co-participants, coaches, and organizers.
+ - [GitHub](https://github.com/): Ideas collection and team formation and tracking happens on GitHub. It's important you have a registered user in the platform before starting the hackathon. You can sign up in this [link](https://github.com/join). It is important for the organization that you enter **your full name in the field `Name` of [your profile](https://github.com/settings/profile)**.
+
+</dd>
 
 </dd>
     <dt name="collect">I have an idea for the hackathon</dt>
