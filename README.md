@@ -73,7 +73,7 @@ Qiskit hackathons make heavy use of two external services, and it's expected you
         
 Open an issue in this repo (using the [`new project`](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/new?assignees=&labels=members+wanted&template=new-project-template.md&title=Project+name) template) and explain your idea in some paragraphs.
 
-All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps/hackathons for inspiration.
+All the proposed projects should make use of some part of Qiskit (including the backends). They can also extend Qiskit or analyze it in some way. Take a look to projects from previous camps and hackathons for inspiration.
 
 </dd>
 
@@ -87,7 +87,7 @@ Before the hackathon starts, the first thing to be done on the first day is to p
     <dt name="participate">I would like to participate in an existing idea</dt>
     <dd>
 
-Participants and coaches can comment and add information as comments in the ideas (as issue comments). [After the pitches](#time-for-pitching-the-idea), there is time for team formation. Find the person behind the idea (feel free to slack them) and ask for more. Once you are convinced, add a comment in the issue mentioning `@qcamp` (our [helpful bot](https://github.com/qcamp)). After some seconds, you will be assigned to the issue. Being assigned to the issue means being part of the team.
+Participants and coaches can comment and add information as comments in the ideas (as issue comments). [After the pitches](#time-for-pitching-the-idea), there is time for team formation. Find the person behind the idea (feel free to slack them) and ask for more. Once you are convinced you want to join the team, add a comment in the issue mentioning `@qcamp` (our [helpful bot](https://github.com/qcamp)). After some seconds, you will be assigned to the issue. Being assigned to the issue means being part of the team.
 
 </dd>
     <dt name="reassign">I am already in a team, but I want to change</dt>
@@ -99,7 +99,7 @@ If a participant is assigned to team and she changes her mind, she has to unassi
    <dt name="nothing">None of the existing ideas is suitable for me :(</dt>
 <dd>
 
-If any of the proposed ideas is suitable for you, considering submitting your own idea. Maybe, you feel that the full thing is over your head, considering joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1). You want be participating of the competition, but you will contribute and learn a lot!
+If none of the proposed ideas is suitable for you, consider submitting your own idea. If you feel that the full thing is over your head, maybe consider joining the [Good First Issues team](https://github.com/qiskit-community/qiskit-camp-africa-19/issues/1). You'll want to participate in the competition, this is a great oportunity to contribute and learn a lot!
 
 </dd>
   <dt name="tokill">My team is not reaching the minimum amount of members</dt>
@@ -147,7 +147,7 @@ After the presentations, the 3 judges will have an hour for deliberating the hac
  4. Technical complexity.
 
 
-The 1st place winners will receive a paid trip to the annual flagship Qiskit Camp event near Yorktown Heights, NY.
+The 1st place winners will receive a paid trip to the annual flagship [Qiskit Camp event](https://medium.com/qiskit/qiskit-camp-2020-coming-next-march-7b8c39e5d42c) near Yorktown Heights, NY.
 
 Also during this time all the participant will vote for the community choice award. Instructions on how to vote will be provided after the presentations.
 
