@@ -136,7 +136,7 @@ A Qiskit coach will also be your contact point after the hackathon, in case the 
 
 ## It's presentation time!
 
-After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. [This article](TODO) has good advice that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
+After the hackathon finishes, the team will have extra time (around 1 hour) to prepare for a 3-minute-long presentation. [This article](https://link.medium.com/K1Tw374Wk2) has good advice that coaches and judges have been collecting during the past camp editions. Make sure you are following those guidelines!
 
 ## It's awards time!
 
