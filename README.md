@@ -62,7 +62,7 @@ Check the [preparation & installation document](preparation%26installation.md) n
 Qiskit hackathons make heavy use of two external services, and it's expected you have a user available in both of them:
 
  - [Qiskit Slack](https://qiskit.slack.com): Our main way of communication is on Slack. You can join the workspace
-[by clicking here](https://join.slack.com/t/qiskit/shared_invite/enQtNjQ5OTc5ODM1ODYyLTc2YWJhOWViZDA2OWI5N2EyMjIxN2YwODM5MWQyN2Q3MjczOGRlMDU4MzMxMWE5MzZjMzEzYzM3MmJiMzU5MzU). After that, join the `#qiskit-camp-africa` channel where you will find all your co-participants, coaches, and organizers.
+[by clicking here](https://join.slack.com/t/qiskit/shared_invite/enQtODQ2NTIyOTgwMTQ3LTI0NzM2NzkzZjJhNDgzZjY5MTQzNDY3MGNiZGQzNTNkZTE4Nzg1MjMwMmFjY2UwZTgyNDlmYWQwYmZjMjE1ZTM). After that, join the `#qiskit-camp-africa` channel where you will find all your co-participants, coaches, and organizers.
  - [GitHub](https://github.com/): Ideas collection and team formation and tracking happens on GitHub. It's important you have a registered user in the platform before starting the hackathon. You can sign up in this [link](https://github.com/join). It is important for the organization that you enter **your full name in the field `Name` of [your profile](https://github.com/settings/profile)**.
 
 </dd>
